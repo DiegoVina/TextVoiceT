@@ -1,0 +1,21 @@
+# Directorio de entorno virtual
+.venv/
+
+# Archivo de variables de entorno
+.env
+
+# Archivos de caché y bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de distribución
+build/
+dist/
+*.egg-info/
+*.egg
+*.pyc
+
+# Archivos de logs y otros archivos generados
+*.log
